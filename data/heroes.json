@@ -115,7 +115,7 @@
     ],
     "description": [
       "Melee damage dealer. Uses a good mix of auto attacks and skill casts.",
-      "Uses HP as resource to cast skills. Has excellent mobility."
+      "Damage scales with hp and attack damage. Has excellent mobility."
     ],
     "spec": [
       "Teperua, the Ring of Blood - Blood Shield",
