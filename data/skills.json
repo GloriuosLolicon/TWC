@@ -934,8 +934,8 @@
     "order": 2,
     "passive": [
       "Gathers blood.",
-      "Charges 3 blood gauge every secon and on every attack",
-      "Charges 1 blood gauge for each 1% HP healed by skills, 2% HP healed by item effects, 20% HP healed by allies"
+      "Charges 4 blood gauge every second and 3 blood gauge on every empowered attack",
+      "Charges 1 blood gauge for each 0.66% HP healed by skills, 2% HP healed by item effects, 20% HP healed by allies"
     ],
     "active": [
       "Forms blades using gathered blood and launch them.",
